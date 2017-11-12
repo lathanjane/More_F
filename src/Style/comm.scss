@@ -1,0 +1,47 @@
+body,html{
+  margin: 0;
+  padding: 0;
+  // background: red;
+}
+h1,p{
+  text-align: center;
+}
+
+.nav-btn {
+    margin: 0px;
+}
+
+.header-text {
+    margin: 0px !important;
+    color: #fff;
+    font-size: 1.2em !important;
+    font-weight: 500;
+    overflow: visible !important;
+}
+
+.part1 {
+    background-color: #9BBB59 !important;
+}
+
+.part2 {
+    background-color: #FFC000 !important;
+}
+
+.part3 {
+    background-color: #548DD4 !important;
+}
+
+.part4 {
+    background-color: #B2A1C7 !important;
+}
+
+span.sub-label {
+    margin-left: 5px;
+    font-size: .8em;
+    color: #aaa;
+}
+
+.guard-bottom {
+    height: 1px;
+    margin-top: 1.5em;
+}
